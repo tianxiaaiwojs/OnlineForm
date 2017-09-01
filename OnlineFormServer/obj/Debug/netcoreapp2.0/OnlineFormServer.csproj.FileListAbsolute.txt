@@ -1,0 +1,10 @@
+/Users/ZHUBEIBEI/Projects/OnlineForm/OnlineFormServer/bin/Debug/netcoreapp2.0/OnlineFormServer.deps.json
+/Users/ZHUBEIBEI/Projects/OnlineForm/OnlineFormServer/bin/Debug/netcoreapp2.0/OnlineFormServer.runtimeconfig.json
+/Users/ZHUBEIBEI/Projects/OnlineForm/OnlineFormServer/bin/Debug/netcoreapp2.0/OnlineFormServer.runtimeconfig.dev.json
+/Users/ZHUBEIBEI/Projects/OnlineForm/OnlineFormServer/bin/Debug/netcoreapp2.0/OnlineFormServer.dll
+/Users/ZHUBEIBEI/Projects/OnlineForm/OnlineFormServer/bin/Debug/netcoreapp2.0/OnlineFormServer.pdb
+/Users/ZHUBEIBEI/Projects/OnlineForm/OnlineFormServer/obj/Debug/netcoreapp2.0/OnlineFormServer.csproj.CoreCompileInputs.cache
+/Users/ZHUBEIBEI/Projects/OnlineForm/OnlineFormServer/obj/Debug/netcoreapp2.0/OnlineFormServer.AssemblyInfoInputs.cache
+/Users/ZHUBEIBEI/Projects/OnlineForm/OnlineFormServer/obj/Debug/netcoreapp2.0/OnlineFormServer.AssemblyInfo.cs
+/Users/ZHUBEIBEI/Projects/OnlineForm/OnlineFormServer/obj/Debug/netcoreapp2.0/OnlineFormServer.dll
+/Users/ZHUBEIBEI/Projects/OnlineForm/OnlineFormServer/obj/Debug/netcoreapp2.0/OnlineFormServer.pdb
